@@ -15,4 +15,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TodoListApp.Domain\TodoListApp.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
